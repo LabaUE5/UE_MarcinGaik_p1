@@ -1,3 +1,2 @@
 # UE_MarcinGaik_p1
-
-Developed with Unreal Engine 5
+UnrealEngine first project repository from Marcin Gaik
